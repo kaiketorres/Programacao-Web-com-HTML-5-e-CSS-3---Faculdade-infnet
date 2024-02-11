@@ -20,6 +20,9 @@ Cursando ⏳
   <li>CSS3</li>
 </ul>
 
+# &#10004; Exercícios terminados
+
+<a href="https://kaiketorres.github.io/Programacao-Web-com-HTML-5-e-CSS-3---Faculdade-infnet/Material%20-%20Etapa%201/Site_Insetos/">Etapa_01</a> /
 
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://ead.infnet.edu.br/faculdade/cursos/faculdade-ead-analise-e-desenvolvimento-de-sistemas/
