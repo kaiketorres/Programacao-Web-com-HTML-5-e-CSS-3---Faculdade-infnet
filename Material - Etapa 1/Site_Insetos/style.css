@@ -86,8 +86,7 @@ main h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; 
-    height: 800px;  
+    flex-direction: column;   
     background-color: #009688;
 }
 
