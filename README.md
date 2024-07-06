@@ -1,30 +1,25 @@
 <div align="center">
-<h1>Graduação ADS - Programação Web com HTML5 e CSS-3 </h1>
+  <h1>Graduação ADS - Programação Web com HTML5 e CSS3</h1>
 </div>
 
 # Bem-vindo! 👋 <a name="id01"></a>
-Repositório de estudos e exercícios da Gradução de Análise e desenvolvimento de sistemas.
+Este repositório contém os materiais e projetos desenvolvidos durante o curso de Programação Web com HTML5 e CSS3, parte da graduação em Análise e Desenvolvimento de Sistemas.
 
-# &#x1F393; Sobre o Curso
-<ul>
-<li>Neste curso, ire aprender os conceitos básicos sobre programação Web. Ire aprender a criar páginas utilizando HTML5 e CSS3.</li>
-</ul>
+# 📝 Sobre o Curso
+Este curso faz parte da formação em ADS e abrange os fundamentos e práticas essenciais de programação web utilizando HTML5 e CSS3. Os tópicos incluem estruturação de páginas, estilização, layouts responsivos, entre outros.
 
-# &#x1F680; Status
-Cursando ⏳
-
-
-# &#x1F4BB; Tecnologias de estudos
+# 🚀 Tecnologias Utilizadas
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
 
-# &#10004; Exercícios terminados
+# &#x1F680; Status
+Concluído ✅
 
-<a href="https://kaiketorres.github.io/Programacao-Web-com-HTML-5-e-CSS-3-Faculdade-infnet/Material%20-%20Etapa%201/Site_Insetos/">Etapa_01</a>/
 
-# &#X263A; Link
-Você pode acessar o curso pelo site: https://ead.infnet.edu.br/faculdade/cursos/faculdade-ead-analise-e-desenvolvimento-de-sistemas/
+# 📚 Créditos
+Curso oferecido pela <a href="https://www.infnet.edu.br/infnet/home/">Instituto infnet</a>]. Todos os direitos sobre o conteúdo e materiais pertencem à instituição.
+
 
 
