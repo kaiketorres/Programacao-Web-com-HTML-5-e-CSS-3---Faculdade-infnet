@@ -19,7 +19,7 @@ Concluído ✅
 
 
 # 📚 Créditos
-Curso oferecido pela <a href="https://www.infnet.edu.br/infnet/home/">Instituto infnet</a>]. Todos os direitos sobre o conteúdo e materiais pertencem à instituição.
+Curso oferecido pela <a href="https://www.infnet.edu.br/infnet/home/">Instituto infnet</a>. Todos os direitos sobre o conteúdo e materiais pertencem à instituição.
 
 
 
